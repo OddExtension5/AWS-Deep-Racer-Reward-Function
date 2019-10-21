@@ -1,1 +1,1 @@
-# AWS-Deep-Racer-Reward-Function
+# AWS Deep Racer | Reward Function
