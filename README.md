@@ -1,6 +1,6 @@
 # AWS Deep Racer | Reward Function
 
-# Lists of Parameters:
+# List of Parameters:
 
 ```{
     "all_wheels_on_track": Boolean,    # flag to indicate if the vehicle is on the track
